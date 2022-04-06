@@ -1,0 +1,4 @@
+export const TABLE_COLUMN_TYPE = {
+  DISPLAY: "DISPLAY",
+  BUTTON: "BUTTON",
+};
